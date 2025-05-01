@@ -1,5 +1,3 @@
-Python Basics: User Input & Arithmetic Operations
-
 This repository contains simple Python programs designed to practice user input, string formatting, and basic arithmetic operations.
 
 Task 1: Perform Basic Mathematical Operations
